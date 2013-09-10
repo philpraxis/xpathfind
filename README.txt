@@ -23,6 +23,7 @@ Example / Usage:
 Development
 ~/dev/xpathfind p$
 
+
 Works also with spaces:
 
 ~/dev/xpathfind p$ ./xpathfind "Balsamiq Mockups" examples/Balsamiq\ Mockups.app\ Contents\ Resources\ META-INF\ AIR\ application.xml
@@ -31,4 +32,13 @@ Works also with spaces:
 /application[1]/initialWindow[1]/title[1]
 /application[1]/fileTypes[1]/fileType[1]/description[1]
 ~/dev/xpathfind p$
+
+
+Now thanks to @freakabcd it also support case insensitive search:
+
+~/dev/xpathfind p$ ./xpathfind -i "balsamiq mockups" examples/Balsamiq\ Mockups.app\ Contents\ Resources\ META-INF\ AIR\ application.xml
+/application[1]/filename[1]
+/application[1]/name[1]
+/application[1]/initialWindow[1]/title[1]
+/application[1]/fileTypes[1]/fileType[1]/description[1]
 
