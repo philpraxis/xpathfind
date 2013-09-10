@@ -1,0 +1,14 @@
+#!/bin/bash
+basedir=`dirname $0`
+if [ $# -lt 2 ];
+then
+    echo "Usage: $0 string1 file1 file2 file3"
+    exit 1
+fi
+pattern=$1
+shift 1
+# echo Files: $*
+for file in "$@"
+do
+    xsltproc --stringparam query "$pattern" $basedir/searchpathes.xsl "$file"
+done

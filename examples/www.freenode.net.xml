@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/><title>About the Network</title><link rel="stylesheet" href="/style.css" type="text/css"/></head><body>
+<div class="header2">
+	<div class="header" style="height: 68px">
+		<a href="/">
+			<img class="logo" style="position: absolute; top: 0px; left: 0px;" src="/logo2.png" width="340" height="68" alt="[freenode]" title="freenode"/></a>
+		<a href="http://osuosl.org/">
+			<img class="logo" style="position: absolute; top: 1px; left: 345px;" src="/images/freenode_osuosl.png" width="165" height="65" alt="[Internet services by Oregon State University's Open Source Lab]" title="Internet services by Oregon State University's Open Source Lab"/></a>
+		<a href="https://www.privateinternetaccess.com/" title="VPN Service">
+			<img class="logo" style="position: absolute; top: 1px; left: 515px;" src="/images/ack_privateinternetaccess-freenode.png" width="404" height="65" alt="VPN Service" title="Private Internet Access"/></a>
+	</div>
+	<form action="http://www.google.com/cse" id="cse-search-box">
+		<p style="margin: 1px; padding: 1px; text-align: right;">
+			<input type="hidden" name="cx" value="partner-pub-3720690829065633:9p8fr4-u91g"/><input type="hidden" name="ie" value="ISO-8859-1"/><input type="text" name="q" size="31"/><input type="submit" name="sa" value="Search"/></p>
+	</form>
+</div>
+
+
+<div class="bodyframe">
+	<div class="menubar">
+	<ul><li><a href="http://blog.freenode.net/">News</a></li>
+		<li><a href="/index.shtml">About the network</a>
+		<ul><li><a href="/faq.shtml">FAQ</a></li>
+			<li><a href="/irc_servers.shtml">IRC Servers</a></li>
+			<li><a href="https://webchat.freenode.net">Webchat</a></li>
+			<li><a href="/group_registration.shtml">Group Registration</a>
+			<ul><li><a href="/primary_groups.shtml">Primary Groups</a></li>
+				<li><a href="/topical_groups.shtml">Topical/Reference</a></li>
+			</ul></li>
+			<li><a href="/using_the_network.shtml">Using the Network</a></li>
+			<li><a href="/policy.shtml">Policies</a></li>
+			<li><a href="/history.shtml">History and Growth</a></li>
+		</ul></li>
+		<li><a href="/philosophy.shtml">Philosophy</a>
+		<ul><li><a href="/catalysts.shtml">Catalysts</a></li>
+			<li><a href="/channel_guidelines.shtml">Channel Guidelines</a></li>
+		</ul></li>
+		<li>How-To Information
+		<ul><li><a href="/certfp">CertFP</a></li>
+			<li><a href="/sasl">SASL</a></li>
+		</ul></li>
+		<li><a href="/development.shtml">Development</a>
+		<ul><li><a href="/gms.shtml">Group Management System</a></li>
+			<li><a href="/seven.shtml">ircd-seven</a></li>
+			<li><a href="/services.shtml">Services</a></li>
+			<li><a href="/utilities.shtml">Utility Bots/Pseudo Servers</a></li>
+		</ul></li>
+		<li><a href="/how_to_help.shtml">How to Help</a>
+		<ul><li><a href="/hosting_ircd.shtml">Hosting a Server</a></li>
+			<li><a href="/operations.shtml">Operations</a></li>
+			<li><a href="/volunteering.shtml">Volunteering</a></li>
+		</ul></li>
+		<li><a href="/acknowledgements.shtml">Acknowledgements</a></li>
+	</ul></div>
+
+	<div class="content">
+
+<h1>About the Network</h1>
+
+
+
+
+
+<p>You've reached <span class="freenode">freenode</span>, an IRC network providing discussion facilities for the Free and Open Source Software communities, not-for-profit organizations, and related communities. In 1998, the network had about 200 users and less than 20 channels. Fifteen years later, the network peaks at over 80,000 users.  <span class="freenode">freenode</span> provides facilities to a variety of <a href="primary_groups.shtml">groups and organizations</a>.  See our <a href="policy.shtml">network policies</a> and <a href="philosophy.shtml">philosophy</a> if you want to know more.</p>
+
+<p>If you're interested in looking around the network, please <a href="using_the_network.shtml">come see us</a>, or have a look at our <a href="http://blog.freenode.net">blog</a>.</p>
+
+<p><span class="freenode">freenode</span> is run entirely by volunteers hailing from the wider FOSS communities which we serve. Our combined network staff and development base is made up of around 40 dedicated men and women. We can all be found in #freenode on the network. Staff are all voiced and happy to help, or just have a chat with you about what we do and why we do it!</p>
+
+<h2>Other Community Services</h2>
+<p>Have you checked out <a href="http://fossevents.org">fossevents.org</a>?  It's designed to bring you a up to date list of events, barcamps, expos, lug meetings...  any event relevant to Free and Open Source Software, across the globe!  Have a look for events near you, or list one if you know of one before us or you're involved in organising one!</p>
+
+
+
+		
+		<p style="text-align: right">
+		Copyright &#xA9; 2002 &#x2013; 2013
+		by <span class="freenode">freenode</span>
+		<a rel="license" href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" style="border: 0; float: right; margin-left: 1em;" src="/images/cc-somerights20.gif" width="88" height="31"/></a><br/>
+		
+		Comments to email address: support at freenode dot net</p>
+		<p style="text-align: right">
+		<small>
+	</small></p>
+	</div><!-- class=content -->
+</div><!-- class=bodyframe -->
+<script type="text/javascript"><![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-646096-3']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+]]></script></body></html>
